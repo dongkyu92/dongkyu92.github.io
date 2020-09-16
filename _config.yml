@@ -25,9 +25,9 @@ github_username:  dongkyu92
 # about_title: About Me
 about_profile_image: images/김동규.jpg
 about_content: | # this will include new lines to allow paragraphs
-  - layout: left
-  company: The Boring Company
-  학력 : 홍익대학교 컴퓨터 공학과 
+  
+
+  안녕하세요. 백엔드 개발자가 되고싶은 김동규입니다.
   <mark>AWS</mark>
 
 # Projects Section
@@ -42,11 +42,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - 학력 : 홍익대학교 컴퓨터공학과 2012.03.01 ~ 2016.02.22
+  - 병역사항 : 예비역 중위 (정보통신) 2016.03 ~ 2018.06.30
 
 # Footer
 footer_show_references: true
