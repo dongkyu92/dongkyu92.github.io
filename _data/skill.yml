@@ -1,23 +1,23 @@
 - layout: left
-  name: Programming Language / IDE
+  name: PL / IDE
   description: | # this will include new lines to allow paragraphs
-    * Java, JavaScript, C, C++ 
+    * <mark>Java</mark>, JavaScript, C, C++, C#
     * HTML, CSS
     * R, Python
     * IntelliJ, Eclipse, Visual Studio Code, Visual Studio 
 - layout: left
   name: Framework / Library
   description: | # this will include new lines to allow paragraphs
-    * Spring MVC, Spring Security
+    * <mark>Spring MVC</mark>, Spring Security
     * JQuery, Bootstrap
     * KoNLP
-    * Vue.js
+    * Vue.js, D3.js
     * Django
 - layout: left
   name: Server
   description: | # this will include new lines to allow paragraphs
     * MySQL
-    * Oracle
+    * <mark>Oracle</mark>
     * Tomcat
 - layout: left
   name: Tooling / DevOps
@@ -27,11 +27,11 @@
     * maven
     * bash
     * Tomcat
-    * AWS RDS, EC2
+    * <mark>AWS RDS, EC2</mark>
 - layout: left
   name: Environment
   description: | # this will include new lines to allow paragraphs
-    * MacOS
+    * <mark>MacOS</mark>
     * linux
     * AWS
     * Windows

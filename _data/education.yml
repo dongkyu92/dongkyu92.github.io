@@ -1,10 +1,35 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: OpenAPI를 활용한 빅데이터 전처리ㆍ시각화
+  dates: 2019.11 - 2020.07
+  qualification: 삼성 멀티캠퍼스 역삼
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    7개월간 웹 기술에 대한 전반적인 이론 및 실습, 프로젝트 교육 & 데이터 수집, 전처리, 시각화 교육
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    * Java(jdk 1.8) 기본 문법부터 File I/O, Collection FrameWork, Thread 등을 학습했습니다.
+    * HTML, CSS와 Javascript로 웹 사이트의 레이아웃을 교육 받았고, 반응형 웹, 돔 객체를 활용해 동적인 웹 사이트 구현을 실습했습니다. 
+    * 서블릿을 공부했고 EL, JSTL을 활용한 JSP 페이지 구성방법을 학습했습니다.
+    * Spring MVC의 구조와 기능에 대해 공부했고, 게시판 제작 미니 프로젝트를 진행했습니다.
+    * R을 이용하여 데이터를 수집하는 방법과 정규표현식을 이용해 전처리를 하고 시각화하는 교육을 받았습니다.
+    * Django로 웹사이트 구축을 진행했습니다.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: 군 복무
+  dates: 2016.03 - 2018.06
+  description: | # this will include new lines to allow paragraphs
+    * 정보통신 병과 육군 소위로 임관하여 중위로 제대했습니다.
+    * 제65보병사단 (2016.06 - 2017.11)
+    * 제3야전군사령부 (2017.12 - 2018.06) 
+
+- layout: left
+  name: 홍익대학교 컴퓨터공학과
+  dates: 2012.03 - 2016.02
+  qualification: 서울 마포구 와우산로 94
+  description: | # this will include new lines to allow paragraphs
+    * 프로그래밍의 기초를 학습했습니다.
+    * C와 C++ 기반 객체지향 프로그래밍과 자료구조, 알고리즘을 학습했습니다.
+    * Unity 3D를 활용한 게임 제작과 OpenGL을 활용한 프로젝트에 참여했습니다.
+    * PL의 역사와 CPU등 하드웨어의 구조와 기능을 학습했습니다.
+    * 운영체제에 대해 학습했습니다.
+    * Network의 이론과 원리를 학습했습니다.
+    * 소프트웨어 공학을 학습하며 다양한 프로그래밍 개발론을 학습했습니다.
+    
