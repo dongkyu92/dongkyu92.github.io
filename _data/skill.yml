@@ -1,0 +1,37 @@
+- layout: left
+  name: Programming Language / IDE
+  description: | # this will include new lines to allow paragraphs
+    * Java, JavaScript, C, C++ 
+    * HTML, CSS
+    * R, Python
+    * IntelliJ, Eclipse, Visual Studio Code, Visual Studio 
+- layout: left
+  name: Framework / Library
+  description: | # this will include new lines to allow paragraphs
+    * Spring MVC, Spring Security
+    * JQuery, Bootstrap
+    * KoNLP
+    * Vue.js
+    * Django
+- layout: left
+  name: Server
+  description: | # this will include new lines to allow paragraphs
+    * MySQL
+    * Oracle
+    * Tomcat
+- layout: left
+  name: Tooling / DevOps
+  description: | # this will include new lines to allow paragraphs
+    * Docker container
+    * Github
+    * maven
+    * bash
+    * Tomcat
+    * AWS RDS, EC2
+- layout: left
+  name: Environment
+  description: | # this will include new lines to allow paragraphs
+    * MacOS
+    * linux
+    * AWS
+    * Windows
