@@ -2,8 +2,6 @@
   name: OpenAPI를 활용한 빅데이터 전처리ㆍ시각화
   dates: 2019.11 - 2020.07
   qualification: 삼성 멀티캠퍼스 역삼
-  quote: >
-    7개월간 웹 기술에 대한 전반적인 이론 및 실습, 프로젝트 교육 & 데이터 수집, 전처리, 시각화 교육
   description: | # this will include new lines to allow paragraphs
     * Java(jdk 1.8) 기본 문법부터 File I/O, Collection FrameWork, Thread 등을 학습했습니다.
     * HTML, CSS와 Javascript로 웹 사이트의 레이아웃을 교육 받았고, 반응형 웹, 돔 객체를 활용해 동적인 웹 사이트 구현을 실습했습니다. 

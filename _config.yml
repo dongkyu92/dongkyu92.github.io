@@ -42,8 +42,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  - 학력 : 홍익대학교 컴퓨터공학과 2012.03.01 ~ 2016.02.22
-  - 병역사항 : 예비역 중위 (정보통신) 2016.03 ~ 2018.06.303
+
 
 # Footer
 footer_show_references: true
