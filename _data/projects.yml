@@ -1,7 +1,7 @@
 - layout: top-middle
-  name: Super awesome project
-  link: '58opal.shop:8000/opalproject'
-  github: sproogen/resume-theme
+  name: 58세대를 위한 건강정보서비스
+  link: 'www.58opal.shop:8000/opalproject'
+  github: dongkyu92/opalproject
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
