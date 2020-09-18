@@ -2,7 +2,16 @@
   name: 58세대를 위한 건강정보서비스
   link: 'http://www.58opal.shop:8000/opalproject'
   github: dongkyu92/opalproject
-  
+  quote: >
+    2020.05.09 ~ 2020.06.04 / 팀장 / 4명
   description: | # this will include new lines to allow paragraphs
-    * 58세대를 위한 건강정보 제공 : 다빈도 질병과 해당 질병에 좋은 식품을 영양 성분별 구성
-      - 뉴스 기사 크롤링, 보건 의료 빅데이터, 농림축산식품부 빅데이터 활용. d3.js로 시각화
+    * 프로젝트 개요 및 기능
+      - 58세대를 위한 건강정보 제공
+      - 다빈도 질병과 해당 질병에 좋은 식품을 영양 성분별 구성
+      - 뉴스 기사 크롤링, 보건 의료 빅데이터, 농림축산식품부 빅데이터를 활용하여 d3.js로 시각화
+      - 식품별, 농가별 식품 판매 페이지 구성 & 장바구니 & 가결제 기능 구현
+    * Web Backend
+      - Java, Spring MVC, Spring Security, Oracle
+    * Web Frontend
+      - HTML5, CSS3, JS ES6, D3.js, Bootstrap, JQuery
+    * Versioning: Git 협업 플로우
