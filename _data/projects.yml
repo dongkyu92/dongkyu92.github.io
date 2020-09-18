@@ -2,7 +2,7 @@
   name: 58세대를 위한 건강정보서비스
   link: 'http://www.58opal.shop:8000/opalproject'
   github: dongkyu92/opalproject
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    * 58세대를 위한 건강정보 제공 : 다빈도 질병과 해당 질병에 좋은 식품을 영양 성분별 구성
+      - 뉴스 기사 크롤링, 보건 의료 빅데이터, 농림축산식품부 빅데이터 활용. d3.js로 시각화
