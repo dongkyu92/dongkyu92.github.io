@@ -27,8 +27,13 @@ about_profile_image: images/김동규.jpg
 about_content: | # this will include new lines to allow paragraphs
   
 
-  안녕하세요. 백엔드 개발자가 되고싶은 김동규입니다.
-  <mark>AWS</mark>
+  안녕하세요. 백엔드 개발자가 되고싶은 <mark>김동규</mark>입니다.
+
+  저는
+  배우는 것을 좋아하고 
+  실패하더라도 계속 도전하는 사람입니다.
+  
+  즐겁게 근무할 수 있는 회사와 동료가 있는 환경에서 성장하고 싶습니다.
 
 # Projects Section
 # projects_title: Projects
