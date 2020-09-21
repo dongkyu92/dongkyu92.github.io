@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
     실수하더라도 <mark>계속 도전</mark>해서 성공하는 것을 좋아합니다.
     
     <br>
-    즐겁게 근무할 수 있는 회사와 동료가 있는 환경에서 성장하고 싶습니다.
+    즐겁게 근무할 수 있는 회사와 동료가 있는 환경에서 성장하고 싶습니다. <br>
     현재 공부중 : Spring Boot, JPA, AWS를 이용한 무중단 배포
 
 # Projects Section
