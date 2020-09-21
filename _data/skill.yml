@@ -5,6 +5,7 @@
     * HTML, CSS
     * R, Python
     * IntelliJ, Eclipse, Visual Studio Code, Visual Studio 
+    
 - layout: left
   name: Framework / Library
   description: | # this will include new lines to allow paragraphs
@@ -13,21 +14,20 @@
     * KoNLP
     * Vue.js, D3.js
     * Django
+
 - layout: left
   name: Server
   description: | # this will include new lines to allow paragraphs
     * MySQL
-    * <mark>Oracle</mark>
+    * Oracle
     * Tomcat
 - layout: left
   name: Tooling / DevOps
   description: | # this will include new lines to allow paragraphs
-    * Docker container
-    * Github
-    * maven
-    * bash
-    * Tomcat
     * <mark>AWS RDS, EC2</mark>
+    * Docker container
+    * Github, Tomcat, maven, bash
+    
 - layout: left
   name: Environment
   description: | # this will include new lines to allow paragraphs
