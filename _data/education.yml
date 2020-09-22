@@ -11,6 +11,15 @@
     * Django로 웹사이트 구축을 진행했습니다.
 
 - layout: left
+  name: KISA 핀테크X블록체인 아카데미
+  dates: 2018.10.29 - 2018.11.15
+  qualification: KISA 핀테크 기술지원센터
+  description: | # this will include new lines to allow paragraphs
+    * 은행권 공동 OpenAPI를 사용하여 실습 위주로 교육받았습니다.
+    * 이더리움 가상화폐 테스트 코인을 채굴했습니다.
+    * 실습 내용을 기반으로 팀을 이뤄 프로젝트를 진행했습니다.(은행권 공동 OpenAPI 이용) 
+
+- layout: left
   name: 군 복무
   dates: 2016.03 - 2018.06
   description: | # this will include new lines to allow paragraphs
