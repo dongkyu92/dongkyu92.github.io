@@ -27,11 +27,16 @@ about_profile_image: images/프로필사진.jpg
 about_content: | # this will include new lines to allow paragraphs
   
 
-  안녕하세요. 백엔드 개발자를 희망하는 <mark>김동규</mark>입니다.
-    
-    <br>
-    즐겁게 근무할 수 있는 회사와 동료가 있는 환경에서 성장하고 싶습니다. <br>
-    현재 Spring Boot로 만들 개인 프로젝트를 기획하고 있습니다.
+  Java & Spring 기반 백엔드 개발자를 희망하는 <mark>김동규</mark> 입니다.
+ 서로 긍정적인 <mark>피드백</mark>을 주는 동료가 있는 회사에서 <mark>성장</mark>하고 싶습니다.
+ <br>
+ 저는 새로운 언어와 기술을 배우는 것을 즐기고 러닝 커브가 높습니다.
+ 프로젝트를 진행하면서 기획에서 개발, 배포까지 경험해보았습니다.
+ 그 개발 기간 동안 항상 어떠한 코드가 더 좋은지 고민했으며,
+ 필요하다면 새로운 언어와 기술을 배우는 것을 마다하지 않고 러닝 커브가 높습니다.
+ <br>
+
+ 현재 Spring Boot와 React 템플릿 엔진, Spring Security를 사용한 개인 토이 프로젝트를 기획 중입니다.
     
 
 # Projects Section
