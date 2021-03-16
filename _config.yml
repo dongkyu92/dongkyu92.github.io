@@ -15,7 +15,7 @@ phone: 010-9197-7392
 
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 # twitter_username: jekyllrb
