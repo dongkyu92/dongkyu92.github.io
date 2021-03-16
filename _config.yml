@@ -15,7 +15,7 @@ phone: 010-9197-7392
 
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: jekyllrb
@@ -63,37 +63,126 @@ about_content: | # this will include new lines to allow paragraphs
   현재 Spring Boot와 React 템플릿 엔진, Spring Security를 사용한 개인 토이 프로젝트를 기획 중입니다.
 
 content:
+  - title: Skill
+    layout: list
+    content:
+      - layout: left
+        title: PL / IDE
+        description: | # this will include new lines to allow paragraphs
+          * <mark>Java</mark>, JavaScript, C, C++, C#
+          * HTML, CSS
+          * R, Python
+          * IntelliJ, Eclipse, Visual Studio Code, Visual Studio
+
+      - layout: left
+        title: Framework / Library
+        description: | # this will include new lines to allow paragraphs
+          * <mark>Spring MVC</mark>, Spring Security
+          * JQuery, Bootstrap
+          * KoNLP
+          * D3.js
+          * Django
+
+      - layout: left
+        title: Server
+        description: | # this will include new lines to allow paragraphs
+          * <mark>Oracle</mark>
+          * MySQL
+          * Tomcat
+
+      - layout: left
+        title: Tooling / DevOps
+        description: | # this will include new lines to allow paragraphs
+          * <mark>AWS RDS, EC2</mark>
+          * Docker container
+          * Github, Tomcat, maven, bash
+
+      - layout: left
+        title: Environment
+        description: | # this will include new lines to allow paragraphs
+          * <mark>MacOS</mark>
+          * linux
+          * AWS
+          * Windows
+    
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: 음식 추천서비스
+        sub_title: Django 기반 웹 서비스
+        caption: 팀장 / 3명<br>백엔드 개발 및 지도 서비스 구현 담당<br>2020.06.22 ~ 2020.07.06
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  dongkyu92/Foother
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+            url: https://github.com/dongkyu92/Foother-multicampus
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          * 프로젝트 개요 및 기능
+            - 사용자 위치 기반 음식점 검색 기능
+            - 사용자 간 음식 게시물(위치, 사진, 시간, 평점) 공유
+            - 랜덤 음식 추천 기능
+          * Web Backend
+            - Python, Django, SQLite, Kakao API, axios
+          * Web Frontend
+            - HTML5, CSS3, JS ES6, Bootstrap
+          * Versioning: Git 협업 플로우<br>
+          <br>
+          <br>
+          <br>
 
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: 58세대를 위한 건강 정보 서비스
+        sub_title: Spring MVC 기반 웹 서비스
+        caption: 팀장 / 4명<br>백엔드 개발 및 회원 시스템 담당<br>2020.05.09 ~ 2020.06.04
+        link: http://www.58opal.shop:8000/opalproject
+        link_text: http://www.58opal.shop:8000/opalproject
+        additional_links:
+          - title:  dongkyu92/opalproject
+            icon: fab fa-github
+            url: https://github.com/dongkyu92/opalproject
         quote: >
-          Short description of the company (optional)
+          <mark>멀티캠퍼스 실무 프로젝트 우수상 & 농림 축산 식품부 창업 공모전 본선 진출</mark>
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          * 프로젝트 개요 및 기능
+            - 58세대를 위한 건강정보 제공
+            - 다빈도 질병과 해당 질병에 좋은 식품을 영양 성분별 구성
+            - 뉴스 기사 크롤링, 보건 의료 빅데이터, 농림축산식품부 빅데이터를 활용하여 d3.js로 시각화
+            - 식품별, 농가별 식품 판매 페이지 구성 & 장바구니 & 가결제 기능 구현
+          * Web Backend
+            - Java, Spring MVC, Spring Security, Oracle
+          * Web Frontend
+            - HTML5, CSS3, JS ES6, D3.js, Bootstrap, JQuery
+          * Versioning: Git 협업 플로우
+          * ![프로젝트 우수상](/images/우수상.jpg)
+          * ![공모전 본선 진출](/images/공모전.jpg)
+          <br>
+          <br>
+          <br>
+          <br>
+
+      - layout: left
+        title: s 추천서비스
+        sub_title: Django 기반 웹 서비스
+        caption: 팀장 / 3명<br>백엔드 개발 및 지도 서비스 구현 담당<br>2020.06.22 ~ 2020.07.06
+        additional_links:
+          - title:  dongkyu92/Foother
+            icon: fab fa-github
+            url: https://github.com/dongkyu92/Foother-multicampus
+        description: | # this will include new lines to allow paragraphs
+          * 프로젝트 개요 및 기능
+            - 사용자 위치 기반 음식점 검색 기능
+            - 사용자 간 음식 게시물(위치, 사진, 시간, 평점) 공유
+            - 랜덤 음식 추천 기능
+          * Web Backend
+            - Python, Django, SQLite, Kakao API, axios
+          * Web Frontend
+            - HTML5, CSS3, JS ES6, Bootstrap
+          * Versioning: Git 협업 플로우<br>
+          <br>
+          <br>
+          <br>
+      
 
   - title: Education
     layout: list
@@ -107,7 +196,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
           - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
