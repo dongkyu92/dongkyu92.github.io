@@ -35,6 +35,9 @@ button, input[type="button"], input[type="reset"], input[type="submit"] {
     button:disabled:hover, input[type="button"]:disabled:hover, input[type="reset"]:disabled:hover, input[type="submit"]:disabled:hover {
       background-color: #477dca; }
 
+img{
+  display: inline;
+}      
 fieldset {
   background-color: #f7f7f7;
   border: 1px solid #ddd;
