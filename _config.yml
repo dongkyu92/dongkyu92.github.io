@@ -6,38 +6,37 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: 김동규
+title: Java 주니어 개발자
+email: mr_dongkyu@naver.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 010-9197-7392
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+# twitter_username: jekyllrb
+github_username:  dongkyu92
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,15 +49,18 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/프로필사진.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Java & Spring 기반 백엔드 개발자를 희망하는 <mark>김동규</mark> 입니다.<br>
+  서로 긍정적인 <mark>피드백</mark>을 주는 동료가 있는 회사에서 <mark>성장</mark>하고 싶습니다.<br>
+  <br>
+  저는 새로운 언어와 기술을 배우는 것을 즐기고 러닝 커브가 높습니다.<br>
+  프로젝트를 진행하면서 <mark>기획</mark>에서 <mark>개발</mark>, <mark>배포</mark>까지 경험해보았습니다.<br>
+  개발 기간 동안 항상 <mark>효율적인 코드</mark> 작성에 힘 썼으며,<br>
+  <mark>코드리뷰</mark> 또한 중요하게 생각합니다.<br>
+  <br>
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  현재 Spring Boot와 React 템플릿 엔진, Spring Security를 사용한 개인 토이 프로젝트를 기획 중입니다.
 
 content:
   - title: Projects # Title for the section
@@ -79,6 +81,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+
   - title: Experience
     layout: list
     content:
@@ -91,6 +94,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+
   - title: Education
     layout: list
     content:
@@ -102,6 +106,8 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+          - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
